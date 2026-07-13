@@ -1,0 +1,13 @@
+{
+  "name": "acknowledgement-webhook",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "automation-server.js",
+  "scripts": {
+    "start": "node automation-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "octokit": "^2.0.0"
+  }
+}
